@@ -1,1 +1,1 @@
-# IntroToAgileDev
+# lab-agile-planning
